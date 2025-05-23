@@ -1,6 +1,6 @@
 # Server Statistics Script
-https://roadmap.sh/projects/server-stats
-A comprehensive bash script for monitoring basic server performance statistics on Linux systems.
+ https://roadmap.sh/projects/server-stats <br/>
+ A comprehensive bash script for monitoring basic server performance statistics on Linux systems.
 
 ## Features
 
